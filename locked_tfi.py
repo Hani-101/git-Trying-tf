@@ -1,4 +1,4 @@
-# just creating a file to test git
+# just creating a file to test git00
 name = input("Enter your name sweetheart: ")
 age = input("Enter your age: ")
 
