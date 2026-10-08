@@ -19,6 +19,7 @@
 #  Tuple = () ordered and unchangeable. Duplicates allowed. FASTER "than list"
 
 fruits = ("apple", "banana", "cherry", "coconut","coconut")
+#  Tuple = ()
 #print(dir(fruits))
 #print(help(fruits))
 #print(len(fruits))
